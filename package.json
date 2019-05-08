@@ -1,0 +1,31 @@
+{
+  "name": "clinks",
+  "version": "1.0.0",
+  "description": "patch console APIs to use URL links whenever logging",
+  "main": "raw.js",
+  "keywords": [
+    "cli",
+    "preload",
+    "hyperlinks",
+    "terminal",
+    "vscode"
+  ],
+  "files": [
+    "index.js",
+    "raw.js",
+    "vscode.js"
+  ],
+  "author": "bradleymeck",
+  "license": "MIT",
+  "dependencies": {
+    "hyperlinker": "1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmeck/clinks.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bmeck/clinks/issues"
+  },
+  "homepage": "https://github.com/bmeck/clinks#readme"
+}
